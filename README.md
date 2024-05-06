@@ -44,8 +44,9 @@ Sinta-se à vontade para contribuir com o projeto! Você pode seguir os seguinte
 
 # Prints 
 
-* ![Listar Contas](blob:https://web.whatsapp.com/c4e0916d-609f-4f48-b0c0-a71ef9fe4e99)
-* ![Saldo](blob:https://web.whatsapp.com/15331e44-74c5-4951-8169-0cf23d688c4b)
-* ![Extrato](blob:https://web.whatsapp.com/05cdfa14-10e2-4139-b740-7fdd4ea7d1cc)
-* ![Transferir](blob:https://web.whatsapp.com/c609897f-a75f-462b-9012-e8a986fbb296)
-* ![Sacar](blob:https://web.whatsapp.com/69def433-1a94-4c7c-bcf4-e45d5a3e2e0d)
+* ![Listar Contas](![image](https://github.com/gabsfinamore/API-Banco-Digital/assets/157439369/fc4f41c3-3229-4482-a735-7a2070707b64)
+* ![Saldo](![image](https://github.com/gabsfinamore/API-Banco-Digital/assets/157439369/58bc8d73-03a9-47b1-a171-746ccfc29975)
+* ![Extrato](![image](https://github.com/gabsfinamore/API-Banco-Digital/assets/157439369/a48d815a-603a-43c1-a8b2-ce2b45aaf27e)
+* ![Transferir](![image](https://github.com/gabsfinamore/API-Banco-Digital/assets/157439369/a10cbc9e-481b-43b9-851f-ca3bae358775)
+* ![Sacar](![image](https://github.com/gabsfinamore/API-Banco-Digital/assets/157439369/c0fab7e4-c78b-49b4-9a54-2e40a94f35e1)
+
